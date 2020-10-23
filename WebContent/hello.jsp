@@ -1,9 +1,9 @@
 <html>
 <head>
-<title> Hello and Welcome</title>
+<title> Welcome</title>
 </head>
 <body>
-	<h1>First Test JSP - Hello JSP!!</h1>
+	<h1>third Test JSP - Hello JSP!!</h1>
 	Hello! Java Server Pages.
 </body>
 </html>
