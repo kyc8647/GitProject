@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Welcome</title>
+<title> Hello and Welcome</title>
 </head>
 <body>
 	<h1>First Test JSP - Hello JSP!!</h1>
